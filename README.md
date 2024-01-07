@@ -16,9 +16,4 @@ To address this challenge, the suggested solution involves integrating an image 
 ## Project Web Site
 - [Live Demo](https://ndilsh.github.io/Edu-Watch-Website/)
 
-## Authors
 
-- [Sasindu Mallawarachchi](https://github.com/SasinduMallawarachchi)
-- [Anuka Rathnayaka](https://www.github.com/)
-- [Nadun Dilshan](https://www.github.com/)
-- [Shehani Perera](https://www.github.com/)
