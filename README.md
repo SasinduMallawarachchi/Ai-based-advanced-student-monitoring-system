@@ -14,6 +14,6 @@ To address this challenge, the suggested solution involves integrating an image 
 ![Logo](https://github.com/SasinduMallawarachchi/Ai-based-advanced-student-monitoring-system/blob/main/Images/User%20Interface%201.png)
 
 ## Project Web Site
-- [Live Demo](https://ndilsh.github.io/Edu-Watch-Website/)
+- [Project Information](https://ndilsh.github.io/Edu-Watch-Website/)
 
 
