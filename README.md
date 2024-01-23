@@ -15,3 +15,4 @@ To address this challenge, the suggested solution involves integrating an image 
 
 ## Project Web Site
 - [Project Information](https://ndilsh.github.io/Edu-Watch-Website/)
+
